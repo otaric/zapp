@@ -1,4 +1,4 @@
-# ![icon](./.github/readme-images/zap.png) Generic Manga Protótipo
+# ![icon](./.github/readme-images/zap.png) Zapp
 
 ## Projeto em Next.js baseado na imersão react da Alura
 
