@@ -1,0 +1,16 @@
+{
+  "theme": {
+    "colors": {
+      "100": "#FC3E8A",
+      "200": "#FC3E8A45"
+    },
+    "dark": {
+      "100": "#CBCBCB",
+      "400": "#22272E",
+      "500": "#22272EEE",
+      "600": "#000000",
+      "700": "#000000DD"
+    }
+  },
+  "typography": { "fontFamily": "'Poppins', sans-serif" }
+}
