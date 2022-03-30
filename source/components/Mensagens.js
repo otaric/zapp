@@ -35,6 +35,7 @@ const CorpoMensagem = styled.div`
   min-width: 200px;
   max-width: 800px;
   position: relative;
+  z-index: 1;
 
   &:first-child {
     margin-bottom: 15px;
@@ -44,7 +45,7 @@ const CorpoMensagem = styled.div`
     content: '';
     position: absolute;
     right: -8px;
-    z-index: 0;
+    z-index: -1;
     top: 0;
     width: 0;
     height: 0;
